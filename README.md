@@ -6,7 +6,7 @@
 
 I’m currently:
 - 📚 Brushing up on fundamentals and trying to make my code *slightly less* chaotic.
-- 🧠 Practicing deep work (and sometimes just deep YouTube dives on 90s 2-strokes).
+- 🧠 Practicing deep work (and sometimes just deep YouTube dives).
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chameenamanjana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chameenamanjana@gmail.com) 
