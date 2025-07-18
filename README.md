@@ -1,11 +1,10 @@
 # 👋 Hey there, I’m Chameen Amanjana
 
-🧠 Student of Computer Science at IIT Sri Lanka  
+🧠 Student of Computer Science at IIT LK | University of Westminster UK <br>
 🏍️ Motorcycle enthusiast | 📸 Casual creator | 🧩 Professional work-in-progress  
 🐕 Dog dad to a very opinionated Golden Retriever
 
 I’m currently:
-- 👨‍💻 Learning React, Vite & building my own **Motorcycle Price Tracker** to scout the best rides in Sri Lanka (NS200, Apache 200, FZ-X, you name it).
 - 📚 Brushing up on fundamentals and trying to make my code *slightly less* chaotic.
 - 🧠 Practicing deep work (and sometimes just deep YouTube dives on 90s 2-strokes).
   
